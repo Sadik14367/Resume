@@ -1,0 +1,451 @@
+body {
+padding: 0; 
+margin: 0; 
+font-family: Roboto, "Helvetica Neue", sans-serif;
+font-size: 18px;
+word-spacing: -2px;
+background: white;
+}
+/*@import url('https://fonts.maateen.me/bangla/font.css');*/
+
+
+.navbar-toggler {
+	border: none;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+  color: white;
+  padding: 0px 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  border: none;
+}
+input[type=email] {
+	 width: 100%;
+}
+
+
+input[type=submit]:hover {
+  background: #3c1f9a;
+}
+
+label {
+	margin-bottom: -5px;
+	margin-top: 15px;
+}
+
+
+
+.navbar {
+	padding: 2px 20px;
+	background: #fff;
+	border-bottom: 1px solid #e9e9e9;
+
+}
+.navbar img {
+	margin-top: px;
+}
+.navbar ul {
+	margin-right: 10px;
+}
+
+
+.nav-item a {
+	font-size: 19px;
+	color: white;
+}
+
+#navbarSupportedContent a {
+		color:  #282828;
+}
+
+#navbarSupportedContent a:hover {
+		color: #9377ec;
+}
+.navbar-toggler:hover {
+	background: none;
+}
+
+.top_button button {
+	background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+	color: white;
+	border-radius: 30px;
+	border: none;
+	padding: 0px 20px;
+}
+.top_button button:hover, .choose_card_right button:hover, .price_list button:hover,     .project_list button:hover  {
+	background: #3c1f9a;
+	color: #fff;
+}
+.second_nav {
+	border-top: 1px solid #e9e9e9;
+	border-bottom: 1px solid #e9e9e9;
+	background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+	margin-top: 49px;
+}
+
+.second_nav ul {
+font-size: 19px;
+
+}
+
+.second_nav li {
+margin-left: -10px;
+padding-right: 5px;
+
+}
+
+
+.second_nav ul li a {
+	color: #fff;
+}
+.second_nav a:hover {
+ color: #9377ec
+}
+.second_nav li:last-child {
+	pointer-events: none;
+}
+
+
+
+.second_nav i {
+	font-size: 15px;
+	padding-right: 4px;
+}
+
+.nav {
+	float: left;
+}
+
+.dropdown-menu {
+	border: none;
+}
+.dropdown-menu a:hover {
+	background: #F6F5F5;
+	color: #9377ec;
+}
+
+.price_plan h3 {
+	padding-top: 25px;
+	font-size: 28px;
+	text-align: center;
+}
+.price_plan hr {
+	width: 150px;
+	border: 1px solid #9377ec;
+	margin-top: -1px;
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+.price_plan {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.price_list {
+	background: white;
+	border-radius: 12px;
+	
+	box-shadow: 0 0 8px #D1D1D1;
+	margin-bottom: 30px;
+	padding-bottom: 20px;
+}
+
+
+.price_list h1 {
+	font-size: 22px;
+	text-align: center;
+	background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+	color: white;
+	border-radius: 12px 12px 0px 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.price_list h2 {
+	font-size: 35px;
+	text-align: center;
+}
+
+.price_list h3 {
+	font-size: 22px;
+	text-align: center;
+	margin-top: -30px;
+	color: #6A6A6A;
+}
+.price_list hr {
+	width: 200px;
+	margin-bottom: 15px;
+}
+.price_list i {
+	font-size: 16px;
+	padding-right: 5px;
+	color: #6A6A6A;
+}
+
+
+.price_list p {
+	padding-left: 25px;
+	font-size: 18px;
+	margin-bottom: 7px;
+}
+
+.price_list a {
+	text-decoration: none;
+}
+.price_list button {
+	background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+	color: white;
+	border-radius: 5px;
+	border: none;
+	padding: 0px 70px;
+	margin-bottom: 20px;
+	margin: 0 auto;
+	display: block;
+}
+
+
+
+
+
+
+.footer_bottom, .footer_bottom_2 {
+	background: #051115;
+	border-bottom: 1px solid #323232;
+}
+
+.footer_bottom h1 {
+	font-size: 18px;
+	color: white;
+	float: left;
+	padding-top: 7px;
+	padding-right: 25px;
+}
+
+.footer_bottom i, .footer_bottom_2 i {
+		font-size: 14px;
+		padding-right: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+	background-image: url("../image/footer.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+
+.footer h1 {
+	font-size: 18px;
+	padding-left: 18px;
+	color: #fff;
+	padding-top: 40px;
+	width: 100%;
+	font-weight: normal;
+}
+
+.footer ul {
+  list-style-type: none;
+  font-weight: normal;
+  font-size: 18px;
+  padding-left: 0px;
+  margin-left: -18px;
+
+}
+.footer li {
+	padding: 0px;
+	width: 100%;
+}
+
+.footer a:hover {
+color: #9377ec;
+}
+
+.footer li a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  font-weight: normal;
+  padding-bottom: 5px;
+}
+
+.footer i {
+	font-size: 13px;
+	padding-right: 7px;
+}
+
+.footer input {
+	padding: 1px 15px;	
+	margin-top: 15px;
+	background: none;
+}
+
+
+
+.footer input[type=email] {
+	margin-left: 18px;
+	background: none;
+
+}
+
+.footer button {
+	margin-left: 18px;
+	background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+	border: none;
+	border-radius: 4px;
+	color: white;
+	padding: 0px 25px;
+}
+.footer button:hover {
+	background: #3c1f9a;
+}
+
+
+
+
+
+
+
+
+
+
+
+.modal-header img {
+	width: 100%;
+	margin-top: -1px;
+	border-radius: 12px 12px 0px 0px;
+}
+.modal-header {
+	border-bottom: none;
+}
+.modal-body h1 {
+	text-align: center;
+	font-size: 22px;
+}
+
+
+
+.modal-content {
+border-radius: 12px;
+padding: 0;	
+width: 450px;
+}
+
+.modal-body {
+	
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.modal-body button{
+	font-size: 19px;
+	color: white;
+	border-radius: 30px;
+	border: none;
+	padding: 0px 25px;
+	margin-left: 25px;
+	float: left;
+}
+.form-group {
+	margin-top: -10px;
+}
+.form-group label {
+	font-size: 19px;
+}
+
+.modal_footer a {
+	float: left;
+	text-align: left;
+	padding: 15px 0px;
+	padding-left: 25px;
+	margin-top: -3px;
+	color: #5432C2;
+}
+
+
+
+
+
+.modal-footer button{
+	color: white;
+	border-radius: 30px;
+	border:none;
+	padding: 0px 30px;
+}
+.modal-footer button:hover, button:hover{
+	background: #3c1f9a;
+}
+
+.modal-header {
+border-bottom: 1px solid #D0D0D0;
+}
+.modal-header h5 {
+	width: 100%;
+
+	margin-bottom: -10px;
+}
+.modal-body p {
+		margin-bottom: 20px;
+	text-align: justify;
+
+}
+.modal-body p:last-child{
+		margin-bottom: 20px;
+}
+
+.modal-body i {
+	padding-right: 5px;
+	color: #9377ec;
+	font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 800px){
+	
+.footer_bottom_2, .order-line {
+	display: none;
+}	
+	
+.navbar li:nth-child(n+4)  {
+	display: none;  
+}
+	
+}
+
+
+
+

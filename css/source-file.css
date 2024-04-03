@@ -1,0 +1,487 @@
+body {
+padding: 0; 
+margin: 0; 
+font-family: Roboto, "Helvetica Neue", sans-serif;
+font-size: 18px;
+word-spacing: -2px;
+background: #e6ecf0;
+}
+/*@import url('https://fonts.maateen.me/bangla/font.css');*/
+
+@media screen and (min-width: 800px){
+.mob-version {
+	display: none;
+}
+}
+
+.navbar-toggler {
+	border: none;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+  color: white;
+  padding: 0px 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  border: none;
+}
+input[type=email] {
+	 width: 100%;
+}
+
+
+input[type=submit]:hover {
+  background: #3c1f9a;
+}
+
+label {
+	margin-bottom: -5px;
+	margin-top: 15px;
+}
+
+
+
+.navbar {
+	padding: 2px 20px;
+	background: #fff;
+	border-bottom: 1px solid #e9e9e9;
+
+}
+.navbar img {
+	margin-top: px;
+}
+.navbar ul {
+	margin-right: 10px;
+}
+
+
+.nav-item a {
+	font-size: 19px;
+	color: white;
+}
+
+#navbarSupportedContent a {
+		color:  #282828;
+}
+
+#navbarSupportedContent a:hover {
+		color: #9377ec;
+}
+.navbar-toggler:hover {
+	background: none;
+}
+
+.top_button button {
+	background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+	color: white;
+	border-radius: 30px;
+	border: none;
+	padding: 0px 20px;
+}
+.top_button button:hover, .choose_card_right button:hover, .price_list button:hover,     .project_list button:hover  {
+	background: #3c1f9a;
+	color: #fff;
+}
+.second_nav {
+	background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+	margin-top: 49px;
+}
+
+
+.second_nav ul {
+font-size: 19px;
+
+}
+
+.second_nav li {
+margin-left: -10px;
+padding-right: 5px;
+
+}
+.active  {
+	background: #eaeaea;
+	border-top: 2px solid #9377ec;
+
+}
+
+
+.second_nav ul li a {
+	color: #fff;
+}
+.second_nav a:hover {
+ color: #9377ec
+}
+
+
+
+
+.second_nav i {
+	font-size: 15px;
+	padding-right: 4px;
+}
+
+.nav {
+	float: left;
+}
+
+.dropdown-menu {
+	border: none;
+}
+.dropdown-menu a:hover {
+	background: #F6F5F5;
+	color: #9377ec;
+}
+
+
+.source-banner  {
+	margin-bottom: 20px;
+}
+
+
+.source-banner img {
+	width: 100%;
+	border-radius: 10px;
+}
+
+
+.the_content {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.table {
+	background: white;
+	border-radius: 10px;
+}
+
+
+
+
+.table tr:hover {
+	background: #fff;
+	box-shadow: 0px 2px 5px #d1d1d1, 0px -2px 5px #d1d1d1;
+	cursor: pointer;
+}
+
+
+
+
+.table a {
+	background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+	color: white;
+	border-radius: 30px;
+	padding: 0px 25px;
+	float: right;
+	margin-right: 25px;
+}
+
+.table a:hover {
+	text-decoration: none;
+	background: #3c1f9a;
+}
+.table i {
+	font-size: 15px;
+	padding-right: 5px;
+}
+.fa-diamond {
+	color: #3c1f9a;
+}
+
+.sorce-sidebar {
+  margin-top: -20px;
+	
+}
+
+.sorce-sidebar h1 {
+	border-bottom: 1px dotted #b0b0b0;
+	color: #282828;
+	font-size: 18px;
+	padding-bottom: 10px;
+	margin-bottom: -1px;
+	width: 100%;
+	font-weight: normal;
+	padding-left: 18px;
+	padding-top: 15px;
+}
+
+.sorce-sidebar ul {
+  list-style-type: none;
+  font-weight: normal;
+  font-size: 18px;
+  margin-top: 20px;
+  color: black;
+  background: white;
+  border-radius: 10px;
+
+
+}
+.sorce-sidebar li {
+	padding: 0px;
+	border-bottom: 1px dotted #b0b0b0;
+	width: 100%;
+	color: black;
+}
+.sorce-sidebar li:last-child {
+	border-bottom: none;
+}
+
+.sorce-sidebar a:hover {
+	color: #3c1f9a;
+}
+
+.sorce-sidebar li a {
+  font-weight: normal;
+  background: none;
+  display: block;
+  color: #6A6A6A;
+  text-decoration: none;
+}
+
+
+.sorce-sidebar i {
+	font-size: 15px;
+	padding-right: 7px;
+}
+
+
+
+
+.sidebar-ad img {
+	margin-top: 20px;
+	width: 100%;
+	cursor: pointer;
+	border-radius: 10px;
+}
+
+
+
+
+
+
+.footer_bottom, .footer_bottom_2 {
+	background: #051115;
+	border-bottom: 1px solid #323232;
+}
+
+.footer_bottom h1 {
+	font-size: 18px;
+	color: white;
+	float: left;
+	padding-top: 7px;
+	padding-right: 25px;
+}
+
+.footer_bottom i, .footer_bottom_2 i {
+		font-size: 14px;
+		padding-right: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+	background-image: url("../image/footer.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+
+.footer h1 {
+	font-size: 18px;
+	padding-left: 18px;
+	color: #fff;
+	padding-top: 40px;
+	width: 100%;
+	font-weight: normal;
+}
+
+.footer ul {
+  list-style-type: none;
+  font-weight: normal;
+  font-size: 18px;
+  padding-left: 0px;
+  margin-left: -18px;
+
+}
+.footer li {
+	padding: 0px;
+	width: 100%;
+}
+
+.footer a:hover {
+color: #9377ec;
+}
+
+.footer li a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  font-weight: normal;
+  padding-bottom: 5px;
+}
+
+.footer i {
+	font-size: 13px;
+	padding-right: 7px;
+}
+
+.footer input {
+	padding: 1px 15px;	
+	margin-top: 15px;
+	background: none;
+}
+
+
+
+.footer input[type=email] {
+	margin-left: 18px;
+	background: none;
+
+}
+
+.footer button {
+	margin-left: 18px;
+	background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+	border: none;
+	border-radius: 4px;
+	color: white;
+	padding: 0px 25px;
+}
+.footer button:hover {
+	background: #3c1f9a;
+}
+
+
+
+
+
+
+
+
+
+
+
+.modal-header img {
+	width: 100%;
+	margin-top: -1px;
+	border-radius: 12px 12px 0px 0px;
+}
+.modal-header {
+	border-bottom: none;
+}
+.modal-body h1 {
+	text-align: center;
+	font-size: 22px;
+}
+
+
+
+.modal-content {
+border-radius: 12px;
+padding: 0;	
+width: 450px;
+}
+
+.modal-body {
+	
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.modal-body button{
+	font-size: 19px;
+	color: white;
+	border-radius: 30px;
+	border: none;
+	padding: 0px 25px;
+	margin-left: 25px;
+	float: left;
+}
+.form-group {
+	margin-top: -10px;
+}
+.form-group label {
+	font-size: 19px;
+}
+
+.modal_footer a {
+	float: left;
+	text-align: left;
+	padding: 15px 0px;
+	padding-left: 25px;
+	margin-top: -3px;
+	color: #5432C2;
+}
+
+
+
+
+
+.modal-footer button{
+	color: white;
+	border-radius: 30px;
+	border:none;
+	padding: 0px 30px;
+}
+.modal-footer button:hover, button:hover{
+	background: #3c1f9a;
+}
+
+.modal-header {
+border-bottom: 1px solid #D0D0D0;
+}
+.modal-header h5 {
+	width: 100%;
+
+	margin-bottom: -10px;
+}
+.modal-body p {
+		margin-bottom: 20px;
+	text-align: justify;
+
+}
+.modal-body p:last-child{
+		margin-bottom: 20px;
+}
+
+.modal-body i {
+	padding-right: 5px;
+	color: #9377ec;
+}
+
+
+
+
+
+@media screen and (min-width: 800px){
+	
+.footer_bottom_2, .order-line {
+	display: none;
+}	
+	
+.navbar li:nth-child(n+4)  {
+	display: none;  
+}
+	
+}
+
+
+
+

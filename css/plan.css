@@ -1,0 +1,191 @@
+body {
+padding: 0; 
+margin: 0; 
+font-family: Roboto, "Helvetica Neue", sans-serif;
+font-size: 18px;
+word-spacing: -2px;
+background: #eef3fa;
+}
+/*@import url('https://fonts.maateen.me/bangla/font.css');*/
+
+
+.plan {
+	margin-top: 25px;
+	margin-bottom: 60px;
+
+}
+
+.plan-content {
+	background: white;
+	padding-bottom: 5px;
+	padding-top: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-bottom: 1px solid #e9e9e9;
+}
+.plan-content img {
+	width: 100px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: -20px;
+}
+.plan-content h1 {
+	font-size: 25px;
+	margin-top: 12px;
+}
+.plan-content p {
+	font-size: 18px;
+	margin-top: -5px;
+}
+
+
+.plan-sidebar {
+	background: #f9f7f7;
+	padding-top: 25px;
+	padding-left: 30px;
+	padding-bottom: ;
+}
+.plan-sidebar h1 {
+	font-size: 23px;
+}
+
+.plan-sidebar button {
+	font-size: 18px;
+	background-image: linear-gradient(to right, #3c1f9a, #9377ec);
+	color: white;
+	padding: 0px 50px;
+	border-radius: 5px;
+	border: none;
+}
+.plan-sidebar button:hover {
+	text-decoration: none;
+	background: #3c1f9a;
+}
+.plan-sidebar i {
+	font-size: 16px;
+	padding-right: 5px;
+	color: #9377ec;
+}
+
+.plan-sidebar a {
+	color: black;
+	text-decoration: none;
+}
+.plan-sidebar a:hover {
+	color: #9377ec;
+}
+.plan-sidebar p {
+	margin-top: 20px;
+	line-height: 25px;
+	font-size: 18px;
+	color: #6a6a6a;
+	margin-bottom: -5px;
+}
+
+
+
+.plan-sidebar hr {
+    background-color: #e5e5e5;
+    border: none;
+    display: block;
+    height: 3px;
+    overflow: visible;
+    position: relative;
+    width: 100%;
+}
+
+.plan-sidebar hr:before {
+    background-color: #9377ec;
+    content: '';
+    display: block;
+    height: 3px;
+    left: 0;
+    position: absolute;
+    width: 30%;
+    z-index: 1;
+}
+
+.plan-sidebar h2 {
+	font-size: 18px;
+	
+}
+
+
+.plan-details {
+	background: white;
+	padding-top: 25px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+}
+
+.plan-details h1 {
+	font-size: 23px;
+	width: 80%;
+	text-align: justify;
+}
+.plan-details p {
+	font-size: 18px;
+	color: #6a6a6a;
+	line-height: 25px;
+}
+
+.plan-details h2 {
+	font-size: 18px;
+	color: #6a6a6a;
+	padding-right: 10px;
+	float: left;
+}
+.plan-details a {
+	color: #3c1f9a;
+	text-decoration: none;
+}
+.plan-details a:hover {
+	color:  #9377ec;
+}
+
+.plan-details i {
+	font-size: 14px;
+	padding-right: 5px;
+}
+
+.a-project {
+	background: ;
+	width: 230px;
+	box-shadow: 0 0 5px #cfcfcf;
+	float: left;
+	margin-right: 20px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.a-project img {
+	width: 60px;
+	float: left;
+	margin-right: 15px;
+	height: 100%;
+}
+
+.a-project  h1 {
+	font-size: 22px;
+	margin-top: 3px;
+	margin-bottom: 0px;
+}
+
+.a-project a {
+	font-size: 18px;
+	color: #3c1f9a;
+}
+.a-project  a:hover {
+	text-decoration: none;
+	color: #9377ec;
+}
+.plan-details h4 {
+	padding-top: 20px;
+	font-size: 22px;
+	clear: both;
+}
+
+
+
+
+

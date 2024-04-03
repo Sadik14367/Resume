@@ -1,0 +1,390 @@
+@media only screen and (max-width: 484px) {.banner {background-image: url(../image/WebBan2.png);}}
+@media screen and (max-width: 1000px){
+.top_section {
+margin-top: 40px;
+}
+
+.source-banner {
+	margin-top: 60px;
+}
+.top_section {
+	margin-bottom: -30px;
+}
+
+.second_nav, .bottom_line {
+	display: none;
+}
+.banner {
+	margin-top: 30px;
+}
+
+.banner img {
+	display: none;
+}
+.banner h5 {
+		font-size: 30px;
+		line-height: 30px;
+}
+.banner p {
+	font-size: 18px;
+}
+.banner h2 {
+	font-size: 18px;
+}
+.banner i {
+	font-size: 12px;
+}
+.banner button {
+	display: none;
+}
+.banner_bottom_line i{
+	font-size: 25px;
+	padding-top: 15px;
+}
+.banner_bottom_line p{
+	font-size: 18px;
+}
+.service h3, .website_type h3,.project h3, .price_plan h3, .contact h3, .online_media h1 {
+	font-size: 22px;
+}
+.banner_bottom_line {
+	margin-bottom: 0px;
+}
+
+.order-line {
+	background: white;
+	box-shadow: 0 0 5px #b2b2b2;
+	text-align: center;
+	padding-top: 2px;
+	}
+
+.order-line a  {
+	color: #3c1f9a;
+	font-size: 19px;
+	padding: 7px;
+	text-decoration: none;
+}
+.order-line a:hover {
+	color: #9377ec;
+}
+
+
+
+.choose_us img, .top_button button {
+	display: none;
+}
+.choose_us h1 {
+	font-size: 22px;	
+}
+
+.choose_card_left h2, .choose_card_right h2 {
+	font-size: 22px;
+	text-align: left;
+	}
+
+.choose_card_left p, .choose_card_right p {
+	font-size: 18px;
+	text-align: justify;
+	}
+
+.choose_card_right button {
+	display: none;
+}
+
+
+.choose_card_left i, .choose_card_right i {
+	font-size: 15px;
+	padding-right:5px;
+}
+
+.media h3 {
+	clear: both;
+}
+
+.news_section {
+	padding-top: 30px;
+}
+
+
+
+
+.media h1 {
+	font-size: 22px;
+}
+.big_media_news {
+	display: none;
+}
+
+.media_news {
+	margin-left: 0px;
+	margin-bottom: 8px;
+}
+.media_news img {
+	width: 100%;
+}
+.media_news h2 {
+	font-size: 18px;
+}
+
+.note h1 {
+font-size: 22px;
+}
+.note p {
+	font-size: 18px;
+	padding: 0;
+	text-align: justify;
+}
+.footer {
+display: none;
+}
+.footer_bottom {
+	display: none;
+}
+
+
+
+.footer_bottom_2 h1 {
+	font-size: 18px;
+	color: white;
+	padding-top: 7px;
+	padding-right: 25px;
+}
+.footer_bottom_2 h1:hover {
+	color: #9377ec;
+}
+.footer_bottom_2 a {
+	text-decoration: none;
+}
+
+.service_icon {
+	float: none;
+	margin-bottom: 8px;
+}
+
+.media-body h1 {
+	color: #9377ec;
+}
+
+.media img {
+	display: none;
+}
+
+
+.project_list img {
+	width: 70px;
+	border: 3px solid #DCDCDC;
+	margin-bottom: 5px;
+}
+
+.project_list h1 {
+	font-size: 19px;
+	margin-bottom: 5px;
+}
+
+.project_list button {
+	background: white;
+	color: #3c1f9a;
+	font-size: 17px;
+	border-radius: 30px;
+	padding: 0px 12px;
+	border: 1px solid #3c1f9a;
+	margin-bottom: 20px;
+}
+.single_news {
+	height: 69.5px;
+	overflow: hidden;
+}
+
+.single_news img {
+	width: 110px;
+	float: left;
+	margin-right: 15px;
+}
+
+.single_news h1 {
+	font-size: 19px;
+	padding-top: 8px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.single_news h2 {
+	display: none;
+}
+
+.plan {
+	margin-top: 70px;
+	margin-bottom: 30px;
+}
+.plan-content {
+	text-align: center;
+}
+
+.plan-content img  {
+	padding-top: 10px;
+	width: 110px;
+	float: none;	
+}
+
+.plan-content h1 {
+	margin-top: 25px;
+}
+.plan-content p {
+	font-size: 18px;
+	margin-top: -5px;
+	line-height: 25px;
+}
+
+.plan-details h1, .plan-details p {
+	font-size: 18px;
+	width: 100%;
+	text-align: justify;
+}
+.plan-details h2 {
+	clear: both;
+}
+.a-project {
+	width: 100%;
+}
+
+.the_content {
+	display: none;
+}
+
+.mob-version {
+	margin-top: 150px;
+	margin-bottom: 150px;
+	
+}
+.mob-version hr {
+    background-color: #e6deff;
+    border: none;
+    display: block;
+    height: 3px;
+    overflow: visible;
+    position: relative;
+    width: 100%;
+}
+
+.mob-version hr:before {
+    background-color: #9377ec;
+    content: '';
+    display: block;
+    height: 3px;
+    left: 0;
+    position: absolute;
+    width: 30%;
+    z-index: 1;
+}
+
+.project {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.project-text h1 {
+	font-size: 22px;
+	text-align: center;
+}	
+.project-text hr {
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.project-text button {
+	margin: 0;
+	position: absolute;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	margin-top: 20px;
+}
+
+.all-project {
+	margin-top: 70px;
+}
+.project_list button {
+	padding: 0px 30px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1024px){
+.banner h1 {
+	font-size: 40px;
+	line-height: 45px;
+}
+.banner p {
+	font-size: 18px;
+}
+
+.banner h2 {
+		display: none;
+}
+
+.banner img {
+	width: 500px;
+}
+.banner button {
+	font-size: 18px;
+}
+
+.banner_bottom_line i {
+	font-size: 28px;
+}
+.banner_bottom_line p {
+	font-size: 18px;
+	line-height: 27px;
+}
+.media_news:last-child, .media_news:first-child  {
+		display: none;
+}
+
+.note p {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.price_list h2{
+	font-size: 32px;
+}
+.price_list button {
+	padding: 0px 50px;
+}
+
+.plan-sidebar button {
+	font-size: 18px;
+	padding: 0px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer_bottom h1, .footer_bottom_2 h1 {
+	padding-right: 18px;
+}
+
+.footer h1 {
+	font-size: 17px;
+}
+
+}
